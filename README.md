@@ -1,21 +1,24 @@
-[//]: # (Image References)
+# Deep Learning Udacity
 
-[image1]: ./images/sample_dog_output.png "Sample Output"
-[image2]: ./images/vgg16_model.png "VGG-16 Model Layers"
-[image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
+https://www.udacity.com/course/deep-learning-nanodegree--nd101
 
+I am currently pursuing a Deep Learning nanodegree program at Udacity. If you want to check what I've been doing you can look at this:
 
-## Project Overview
-
-Welcome to the Convolutional Neural Networks (CNN) project in the AI Nanodegree! In this project, you will learn how to build a pipeline that can be used within a web or mobile app to process real-world, user-supplied images.  Given an image of a dog, your algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
-
-![Sample Output][image1]
 
 
 
 ## Project Instructions
 
-### Instructions
+Project 1 - Sentiment Analysis (Neural Network)
+Project 2 - Predicting bike sharing (Neural Network) 
+Project 3 - Dog breed classifier (CNN)
+Project 3 - TV Script Generation (LSTM) *currently working on*
+
+
+
+
+
+
 
 
 
