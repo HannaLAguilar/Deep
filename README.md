@@ -6,11 +6,11 @@ Check de program --> [Udacity program](https://www.udacity.com/course/deep-learn
 
 ## Projects
 
-https://github.com/HannaLAguilar/Dog-_Identification_CNN
+
 
 Project 1 - Sentiment Analysis (Neural Network) 
 
-Project 2 - Predicting bike sharing (Neural Network): https://github.com/HannaLAguilar/Deep-Learning_Udacity/tree/master/Predicting%20bike%20sharing
+Project 2 - [Predicting bike sharing](https://github.com/HannaLAguilar/Predicting_bike_sharing)
 
 Project 3 - [Dog breed classifier](https://github.com/HannaLAguilar/Dog-_Identification_CNN)
 
