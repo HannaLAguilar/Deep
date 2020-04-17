@@ -14,9 +14,9 @@ Project 3 - [Dog breed classifier](https://github.com/HannaLAguilar/Dog-_Identif
 
 Project 3 - TV Script Generation (LSTM) *currently working on* (LSTM)
 
-Others:
+Others projects:
 
-[Concrete crack](https://github.com/HannaLAguilar/Concrete_Crack_Classification)
+* [Concrete crack](https://github.com/HannaLAguilar/Concrete_Crack_Classification)
 
 
 
