@@ -10,8 +10,11 @@ I am currently pursuing a Deep Learning nanodegree program at Udacity. If you wa
 ## Project Instructions
 
 Project 1 - Sentiment Analysis (Neural Network)
+
 Project 2 - Predicting bike sharing (Neural Network) 
+
 Project 3 - Dog breed classifier (CNN)
+
 Project 3 - TV Script Generation (LSTM) *currently working on*
 
 
