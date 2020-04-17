@@ -8,7 +8,7 @@ Check de program --> [Udacity program](https://www.udacity.com/course/deep-learn
 
 Project 1 - Sentiment Analysis (Neural Network) 
 
-Project 2 - Predicting bike sharing (Neural Network) 
+Project 2 - Predicting bike sharing (Neural Network): https://github.com/HannaLAguilar/Deep-Learning_Udacity/tree/master/Predicting%20bike%20sharing
 
 Project 3 - Dog breed classifier (CNN)
 
