@@ -12,7 +12,7 @@ Project 2 - [Predicting bike sharing](https://github.com/HannaLAguilar/Predictin
 
 Project 3 - [Dog breed classifier](https://github.com/HannaLAguilar/Dog-_Identification_CNN) (CNN)
 
-Project 3 - TV Script Generation (LSTM) *currently working on* (LSTM)
+Project 4 - TV Script Generation (LSTM) *currently working on* (LSTM)
 
 Others projects:
 
