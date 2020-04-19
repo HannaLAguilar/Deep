@@ -6,7 +6,7 @@ Check de program --> [Udacity program](https://www.udacity.com/course/deep-learn
 
 ## Projects
 
-Project 1 - Sentiment Analysis (Neural Network) 
+Project 1 - [Sentiment Analysis](https://github.com/HannaLAguilar/Sentiment_analysis) (Neural Network) 
 
 Project 2 - [Predicting bike sharing](https://github.com/HannaLAguilar/Predicting_bike_sharing) (Neural Networks)
 
