@@ -6,11 +6,11 @@ Check de program --> [Udacity program](https://www.udacity.com/course/deep-learn
 
 ## Projects
 
-Project 1 - [Sentiment Analysis](https://github.com/HannaLAguilar/Sentiment_analysis) (Neural Network): build neural networks models to predict if reviews movie are positive or negative.
+Project 1 - [Sentiment Analysis](https://github.com/HannaLAguilar/Sentiment_analysis): build neural networks models to predict if reviews movie are positive or negative.
 
 Project 2 - [Predicting bike sharing](https://github.com/HannaLAguilar/Predicting_bike_sharing) (Neural Networks)
 
-Project 3 - [Dog breed classifier](https://github.com/HannaLAguilar/Dog-_Identification_CNN) (CNN)
+Project 3 - [Dog breed classifier](https://github.com/HannaLAguilar/Dog-_Identification_CNN): Implement an image classifier for dog breeds using CNN.
 
 Project 4 - TV Script Generation (LSTM) *currently working on* 
 
