@@ -8,8 +8,6 @@ Check de program --> [Udacity program](https://www.udacity.com/course/deep-learn
 
 1. [Sentiment Analysis](https://github.com/HannaLAguilar/Sentiment_analysis): implements a neural network that is able to classify a review into negative or positive.
 
-implements a neural network that is able to classify a review into negative or positive
-
 2. [Predicting bike sharing](https://github.com/HannaLAguilar/Predicting_bike_sharing): using a scratch neural networks to predict the number of bikeshare users on given day.
 
 3. [Dog breed classifier](https://github.com/HannaLAguilar/Dog-_Identification_CNN): implement an image classifier for dog breeds using CNN.
