@@ -10,9 +10,9 @@ Check the program --> [Udacity program](https://www.udacity.com/course/deep-lear
 
 2. [Predicting bike sharing](https://github.com/HannaLAguilar/Predicting_bike_sharing): using a scratch neural networks to predict the number of bikeshare users on given day.
 
-3. [Dog breed classifier](https://github.com/HannaLAguilar/Dog-_Identification_CNN): implements an image classifier for dog breeds using CNN.
+3. [Dog breed classifier](https://github.com/HannaLAguilar/Dog-_Identification_CNN): implements an image classifier for dog breeds using CNN. 
 
-4. [TV Script Generation with RNN](https://github.com/HannaLAguilar/TV_Script_RNN)
+4. [TV Script Generation with RNN](https://github.com/HannaLAguilar/TV_Script_RNN): implements a Recurrent Neural Network (RNN) to generate scripts in the style of dialogue from Seinfeld.
 
 5. 
 
