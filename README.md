@@ -12,7 +12,9 @@ Check the program --> [Udacity program](https://www.udacity.com/course/deep-lear
 
 3. [Dog breed classifier](https://github.com/HannaLAguilar/Dog-_Identification_CNN): implements an image classifier for dog breeds using CNN.
 
-4. TV Script Generation (LSTM) *currently working on* 
+4. [TV Script Generation with RNN](https://github.com/HannaLAguilar/TV_Script_RNN)
+
+5. 
 
 Others projects:
 
