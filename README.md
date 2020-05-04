@@ -14,7 +14,7 @@ Check the program --> [Udacity program](https://www.udacity.com/course/deep-lear
 
 4. [TV Script Generation with RNN](https://github.com/HannaLAguilar/TV_Script_RNN): implements a Recurrent Neural Network (RNN) to generate scripts in the style of dialogue from Seinfeld.
 
-5. Face Generation: Use a DCGAN on the CelebA dataset to generate images of new and realistic human faces. *working on*
+5. Face Generation: *working on*
 
 Others projects:
 
