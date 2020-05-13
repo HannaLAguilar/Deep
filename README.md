@@ -16,6 +16,8 @@ Check the program --> [Udacity program](https://www.udacity.com/course/deep-lear
 
 5. [Face Generation](https://github.com/HannaLAguilar/Face_generation): use a DCGAN on the CelebA dataset to generate images of new and realistic human faces.
 
+5. [Deploying a Sentiment Analysis] *working on*
+
 Others projects:
 
 * [Concrete crack](https://github.com/HannaLAguilar/Concrete_Crack_Classification): implements an image classifier for concrete cracks data.
