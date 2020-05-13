@@ -12,9 +12,9 @@ Check the program --> [Udacity program](https://www.udacity.com/course/deep-lear
 
 3. [Dog breed classifier](https://github.com/HannaLAguilar/Dog-_Identification_CNN): implements an image classifier for dog breeds using CNN. 
 
-4. [TV Script Generation with RNN](https://github.com/HannaLAguilar/TV_Script_RNN): implements a Recurrent Neural Network (RNN) to generate scripts in the style of dialogue from Seinfeld.
+4. [TV Script Generation](https://github.com/HannaLAguilar/TV_Script_RNN): implements a Recurrent Neural Network (RNN) to generate scripts in the style of dialogue from Seinfeld.
 
-5. [Face Generation with DCGANs](https://github.com/HannaLAguilar/Face_generation): use a DCGAN on the CelebA dataset to generate images of new and realistic human faces.
+5. [Face Generation](https://github.com/HannaLAguilar/Face_generation): use a DCGAN on the CelebA dataset to generate images of new and realistic human faces.
 
 Others projects:
 
