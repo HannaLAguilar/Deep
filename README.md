@@ -16,7 +16,7 @@ Check the program --> [Udacity program](https://www.udacity.com/course/deep-lear
 
 5. [Face Generation](https://github.com/HannaLAguilar/Face_generation): use a DCGAN on the CelebA dataset to generate images of new and realistic human faces.
 
-5. Deploying a Sentiment Analysis: *working on*
+5. [Deploying a Sentiment Analysis](https://github.com/HannaLAguilar/Sentiment_analysis_Web): using AWS SageMaker to build a sentiment analysis web app to classify a movie review into negative or positive.
 
 Others projects:
 
