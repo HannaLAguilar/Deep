@@ -1,6 +1,8 @@
 # Deep Learning Udacity
 
-I am currently pursuing a Deep Learning nanodegree program at Udacity. If you want to check what I've been doing you can look this repository [Deep learning path](https://github.com/HannaLAguilar/Deep_Learning_path).
+View all of my projects!
+
+If you want to check all the notebook what I've done, you can look this repository [Deep learning path](https://github.com/HannaLAguilar/Deep_Learning_path).
 
 Check the program --> [Udacity program](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
 
@@ -18,6 +20,6 @@ Check the program --> [Udacity program](https://www.udacity.com/course/deep-lear
 
 5. [Deploying a Sentiment Analysis](https://github.com/HannaLAguilar/Sentiment_analysis_Web): use AWS SageMaker to build a sentiment analysis web app to classify a movie review into negative or positive.
 
-Others projects:
+### Others projects:
 
 * [Concrete crack](https://github.com/HannaLAguilar/Concrete_Crack_Classification): implements an image classifier for concrete cracks data.
