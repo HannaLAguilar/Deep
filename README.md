@@ -1,4 +1,4 @@
-# Deep Learning Udacity
+# Deep Learning Nanodegree Udacity
 
 Take a look at my projects!
 
