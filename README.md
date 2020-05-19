@@ -4,7 +4,7 @@ Take a look at my projects!
 
 If you want to check all the practice notebooks I've done, you can look this repository [Deep learning path](https://github.com/HannaLAguilar/Deep_Learning_path).
 
-Udacity Nanodegree program [here](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
+Udacity Nanodegree program [here](https://www.udacity.com/course/deep-learning-nanodegree--nd101).
 
 ## Projects
 
