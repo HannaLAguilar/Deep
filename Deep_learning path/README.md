@@ -23,14 +23,14 @@ Deep learning projects have a lot of code behind them. I believe that the best w
 * [MNIST](https://github.com/HannaLAguilar/Deep_Learning_Udacity/blob/master/Deep_learning%20path/CNN/MNIST%20CNN.ipynb)
 * [FMNIST](https://github.com/HannaLAguilar/Deep_Learning_Udacity/blob/master/Deep_learning%20path/CNN/FMNIST%20CNN.ipynb)
 * [cifar10](https://github.com/HannaLAguilar/Deep_Learning_Udacity/blob/master/Deep_learning%20path/CNN/cifar10%20CNN%20.ipynb)
-* [Autoencoder]https://github.com/HannaLAguilar/Deep_Learning_Udacity/blob/master/Deep_learning%20path/CNN/Simple%20Autoencoders.ipynb)
+* [Autoencoder](https://github.com/HannaLAguilar/Deep_Learning_Udacity/blob/master/Deep_learning%20path/CNN/Simple%20Autoencoders.ipynb)
 * [Autoencoder CNN](https://github.com/HannaLAguilar/Deep_Learning_Udacity/blob/master/Deep_learning%20path/CNN/Autoencoders%20CNN.ipynb)
 * [Flowers classifier](https://github.com/HannaLAguilar/Deep_Learning_Udacity/blob/master/Deep_learning%20path/CNN/Flowers%20classifier.ipynb)
 
 ### Recurrent Neural Networks (RNN)
 
-* [Simple RNN](https://github.com/HannaLAguilar/Deep_Learning_path/blob/master/RNN/Simple%20RNN.ipynb)
-* [Character prediction LSTM (Anna Karenina)](https://github.com/HannaLAguilar/Deep_Learning_path/blob/master/RNN/Character%20prediction%20LSTM.ipynb)
+* [Simple RNN](https://github.com/HannaLAguilar/Deep_Learning_Udacity/blob/master/Deep_learning%20path/RNN/Simple%20RNN.ipynb)
+* [Character prediction LSTM (Anna Karenina)](https://github.com/HannaLAguilar/Deep_Learning_Udacity/blob/master/Deep_learning%20path/RNN/Character%20prediction%20LSTM.ipynb)
 * [Sentiment Analysis with RNN](https://github.com/HannaLAguilar/Sentiment_analysis_rnn)
 
 ### Word embedding
