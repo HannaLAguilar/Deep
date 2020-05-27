@@ -15,8 +15,8 @@ Deep learning projects have a lot of code behind them. I believe that the best w
 
 ### Neural Networks
 
-* [Predicting Student Admissions](https://github.com/HannaLAguilar/Deep_Learning_path/blob/master/Neural%20networks/Predicting%20Student%20Admissions%20with%20Neural%20Networks.ipynb)
-* [FMNIST with Pytorch](https://github.com/HannaLAguilar/Deep_Learning_path/blob/master/Neural%20networks/FMNIST%20with%20Pytorch.ipynb)
+* [Predicting Student Admissions](https://github.com/HannaLAguilar/Deep_Learning_Udacity/blob/master/Deep_learning%20path/Neural%20networks/Predicting%20Student%20Admissions%20with%20Neural%20Networks.ipynb)
+* [FMNIST with Pytorch](https://github.com/HannaLAguilar/Deep_Learning_Udacity/blob/master/Deep_learning%20path/Neural%20networks/FMNIST%20with%20Pytorch.ipynb)
 
 ### Convolutional Neural Networks (CNN)
 
