@@ -35,13 +35,13 @@ Deep learning projects have a lot of code behind them. I believe that the best w
 
 ### Word embedding
 
-* [Words embedding: skip gram](https://github.com/HannaLAguilar/Deep_Learning_path/blob/master/WordEmbeddings/Word2Vec_SkipGram.ipynb)
-* [Negative sampling](https://github.com/HannaLAguilar/Deep_Learning_path/blob/master/WordEmbeddings/Word2Vec_SkipGram_NegativeSampling.ipynb)
+* [Words embedding: skip gram](https://github.com/HannaLAguilar/Deep_Learning_Udacity/blob/master/Deep_learning%20path/WordEmbeddings/Word2Vec_SkipGram.ipynb)
+* [Negative sampling](https://github.com/HannaLAguilar/Deep_Learning_Udacity/blob/master/Deep_learning%20path/WordEmbeddings/Word2Vec_SkipGram_NegativeSampling.ipynb)
 
 ### Generative Adversarial Networks (GANs)
 
-* [MNIST GANs](https://github.com/HannaLAguilar/Deep_Learning_path/blob/master/GANs/MNIST%20GANs.ipynb)
-* [DCGANs](https://github.com/HannaLAguilar/Deep_Learning_path/blob/master/GANs/DeepConvGANs.ipynb)
+* [MNIST GANs](https://github.com/HannaLAguilar/Deep_Learning_Udacity/blob/master/Deep_learning%20path/GANs/MNIST%20GANs.ipynb)
+* [DCGANs](https://github.com/HannaLAguilar/Deep_Learning_Udacity/blob/master/Deep_learning%20path/GANs/DeepConvGANs.ipynb)
 
 ## Installation
 
