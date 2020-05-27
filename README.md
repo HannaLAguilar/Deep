@@ -22,7 +22,7 @@ Udacity Nanodegree program [here](https://www.udacity.com/course/deep-learning-n
 
 * [TV Script Generation](https://github.com/HannaLAguilar/TV_Script_RNN): train a Recurrent Neural Network (LSTM) to generate scripts in the style of dialogue from Seinfeld.
 
-#### Generative Adversarial Neural Network (GANs, DCGANs)
+#### Generative Adversarial Network (GANs, DCGANs)
 
 * [Face Generation](https://github.com/HannaLAguilar/Face_generation): use a DCGAN on the CelebA dataset to generate images of new and realistic human faces.
 
