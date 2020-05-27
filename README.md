@@ -14,14 +14,22 @@ Udacity Nanodegree program [here](https://www.udacity.com/course/deep-learning-n
 
 * [Predicting bike sharing](https://github.com/HannaLAguilar/Predicting_bike_sharing): use a scratch neural networks to predict the number of bikeshare users on given day.
 
-3. [Dog breed classifier](https://github.com/HannaLAguilar/Dog-_Identification_CNN): implements an image classifier for dog breeds using CNN. 
+### Convolutional Neural Network (CNN)
 
-4. [TV Script Generation](https://github.com/HannaLAguilar/TV_Script_RNN): train a Recurrent Neural Network (LSTM) to generate scripts in the style of dialogue from Seinfeld.
+* [Dog breed classifier](https://github.com/HannaLAguilar/Dog-_Identification_CNN): implements an image classifier for dog breeds using CNN. 
 
-5. [Face Generation](https://github.com/HannaLAguilar/Face_generation): use a DCGAN on the CelebA dataset to generate images of new and realistic human faces.
+### Recurrent Neural Network (RNN, LSTM)
 
-5. [Deploying a Sentiment Analysis](https://github.com/HannaLAguilar/Sentiment_analysis_Web): use AWS SageMaker to build a sentiment analysis web app to classify a movie review into negative or positive.
+* [TV Script Generation](https://github.com/HannaLAguilar/TV_Script_RNN): train a Recurrent Neural Network (LSTM) to generate scripts in the style of dialogue from Seinfeld.
 
-### Others projects:
+### Generative Adversarial Neural Network (GANs, DCGANs)
+
+* [Face Generation](https://github.com/HannaLAguilar/Face_generation): use a DCGAN on the CelebA dataset to generate images of new and realistic human faces.
+
+### Deployment AWS SageMaker
+
+* [Deploying a Sentiment Analysis](https://github.com/HannaLAguilar/Sentiment_analysis_Web): use AWS SageMaker to build a sentiment analysis web app to classify a movie review into negative or positive.
+
+## Others projects:
 
 * [Concrete crack](https://github.com/HannaLAguilar/Concrete_Crack_Classification): implements an image classifier for concrete cracks data.
