@@ -8,9 +8,11 @@ Udacity Nanodegree program [here](https://www.udacity.com/course/deep-learning-n
 
 ## Projects
 
-1. [Sentiment Analysis](https://github.com/HannaLAguilar/Sentiment_analysis): implements a scratch neural network that is able to classify a movie review into negative or positive.
+### Neural Network
 
-2. [Predicting bike sharing](https://github.com/HannaLAguilar/Predicting_bike_sharing): use a scratch neural networks to predict the number of bikeshare users on given day.
+* [Sentiment Analysis](https://github.com/HannaLAguilar/Sentiment_analysis): implements a scratch neural network that is able to classify a movie review into negative or positive.
+
+* [Predicting bike sharing](https://github.com/HannaLAguilar/Predicting_bike_sharing): use a scratch neural networks to predict the number of bikeshare users on given day.
 
 3. [Dog breed classifier](https://github.com/HannaLAguilar/Dog-_Identification_CNN): implements an image classifier for dog breeds using CNN. 
 
