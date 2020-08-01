@@ -10,7 +10,7 @@ Udacity Nanodegree program [here](https://www.udacity.com/course/deep-learning-n
 
 #### Neural Networks
 
-* [Sentiment Analysis](https://github.com/HannaLAguilar/Sentiment_analysis): implements a scratch neural network that is able to classify a movie review into negative or positive.
+* [Sentiment Analysis](https://github.com/HannaLAguilar/Sentiment_Analysis_IMBD/tree/master/Sentiment_analysis_scratch): implements a scratch neural network that is able to classify a movie review into negative or positive.
 
 * [Predicting bike sharing](https://github.com/HannaLAguilar/Predicting_bike_sharing): use a scratch neural networks to predict the number of bikeshare users on given day.
 
@@ -28,7 +28,7 @@ Udacity Nanodegree program [here](https://www.udacity.com/course/deep-learning-n
 
 #### Deployment AWS SageMaker
 
-* [Deploying a Sentiment Analysis](https://github.com/HannaLAguilar/Sentiment_analysis_Web): use AWS SageMaker to build a sentiment analysis web app to classify a movie review into negative or positive.
+* [Deploying a Sentiment Analysis](https://github.com/HannaLAguilar/Sentiment_Analysis_IMBD/tree/master/Sentiment_analysis_Web): use AWS SageMaker to build a sentiment analysis web app to classify a movie review into negative or positive.
 
 ## Others projects:
 
