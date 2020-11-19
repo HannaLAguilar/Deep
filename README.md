@@ -32,4 +32,5 @@ Udacity Nanodegree program [here](https://www.udacity.com/course/deep-learning-n
 
 ## Others projects:
 
-* [Concrete crack](https://github.com/HannaLAguilar/Concrete_Crack_Classification): implements an image classifier for concrete cracks data.
+* [Digit classification (CNN)](https://github.com/HannaLAguilar/Digit_classification)
+* [Concrete crack (CNN)](https://github.com/HannaLAguilar/Concrete_Crack_Classification): implements an image classifier for concrete cracks data.
