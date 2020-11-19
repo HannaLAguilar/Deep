@@ -32,5 +32,5 @@ Udacity Nanodegree program [here](https://www.udacity.com/course/deep-learning-n
 
 ## Others projects:
 
-* [Digit classification (CNN)](https://github.com/HannaLAguilar/Digit_classification)
+* [Digit classification (CNN)](https://github.com/HannaLAguilar/Digit_classification): implements an digit classifier (0 to 9).
 * [Concrete crack (CNN)](https://github.com/HannaLAguilar/Concrete_Crack_Classification): implements an image classifier for concrete cracks data.
